@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5eef215-4271-477e-af0e-b8cdbfcc9f2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_indexing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_while_loop_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_for_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_nested_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_2d_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_collection_shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_dice_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_gametime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_default_argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_funtion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_funtion_invoice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_funtion_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_typecasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Madlibs_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_input_rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_basic_arithmetic_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_math_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_math_module_funtion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_if_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_python Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_logical_oparators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_string_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_string_method_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="30OQgp5uebNNpMIj8Fd1goXwMyF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_indexing.executor": "Run",
+    "Python.11_while_loop.executor": "Run",
+    "Python.11_while_loop_example.executor": "Run",
+    "Python.12_for_loops.executor": "Run",
+    "Python.13_nested_loop.executor": "Run",
+    "Python.14_2d_list.executor": "Run",
+    "Python.14_collection_shopping_cart.executor": "Run",
+    "Python.14_collections.executor": "Run",
+    "Python.14_dice_game.executor": "Run",
+    "Python.14_gametime.executor": "Run",
+    "Python.15_default_argument.executor": "Run",
+    "Python.15_funtion.executor": "Run",
+    "Python.15_funtion_invoice.executor": "Run",
+    "Python.15_funtion_return.executor": "Run",
+    "Python.1stPy.executor": "Run",
+    "Python.3_Madlibs_game.executor": "Run",
+    "Python.3_input.executor": "Run",
+    "Python.3_input_rectangle_area.executor": "Run",
+    "Python.4_basic_arithmetic_operator.executor": "Run",
+    "Python.5_math_functions.executor": "Run",
+    "Python.5_math_module_funtion.executor": "Run",
+    "Python.6_if_statement.executor": "Run",
+    "Python.7_Python Calculator.executor": "Run",
+    "Python.7_python Calculator.executor": "Run",
+    "Python.8_logical_oparators.executor": "Run",
+    "Python.9_string_method.executor": "Run",
+    "Python.9_string_method_example.executor": "Run",
+    "Python.Madlibs_game.executor": "Run",
+    "Python.typecasting.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5eef215-4271-477e-af0e-b8cdbfcc9f2e" name="Changes" comment="" />
+      <created>1753496253039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753496253039</updated>
+      <workItem from="1753496254057" duration="37837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$3_input.coverage" NAME="3_input Coverage Results" MODIFIED="1753501042589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$5_math_functions.coverage" NAME="5_math_functions Coverage Results" MODIFIED="1753541511032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$8_logical_oparators.coverage" NAME="8_logical_oparators Coverage Results" MODIFIED="1753546500910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$13_nested_loop.coverage" NAME="13_nested_loop Coverage Results" MODIFIED="1753589876580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$15_default_argument.coverage" NAME="15_default_argument Coverage Results" MODIFIED="1753649752753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$11_while_loop_example.coverage" NAME="11_while_loop_example Coverage Results" MODIFIED="1753586279241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$3_input_rectangle_area.coverage" NAME="3_input_rectangle_area Coverage Results" MODIFIED="1753505745793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$14_dice_game.coverage" NAME="14_dice_game Coverage Results" MODIFIED="1753645559389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Madlibs_game.coverage" NAME="Madlibs_game Coverage Results" MODIFIED="1753506835368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$variables.coverage" NAME="variables Coverage Results" MODIFIED="1753498395470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$7_Python_Calculator.coverage" NAME="7_Python Calculator Coverage Results" MODIFIED="1753545165642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$10_indexing.coverage" NAME="10_indexing Coverage Results" MODIFIED="1753556542331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$1stPy.coverage" NAME="1stPy Coverage Results" MODIFIED="1753496401280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$7_python_Calculator.coverage" NAME="7_python Calculator Coverage Results" MODIFIED="1753588390965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$12_for_loops.coverage" NAME="12_for_loops Coverage Results" MODIFIED="1753588617437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$14_2d_list.coverage" NAME="14_2d_list Coverage Results" MODIFIED="1753635694316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$typecasting.coverage" NAME="typecasting Coverage Results" MODIFIED="1753500158714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$9_string_method_example.coverage" NAME="9_string_method_example Coverage Results" MODIFIED="1753553031319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$14_collections.coverage" NAME="14_collections Coverage Results" MODIFIED="1753634021559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$15_funtion.coverage" NAME="15_funtion Coverage Results" MODIFIED="1753648322880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$5_math_module_funtion.coverage" NAME="5_math_module_funtion Coverage Results" MODIFIED="1753542263478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$9_string_method.coverage" NAME="9_string_method Coverage Results" MODIFIED="1753552373036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$14_gametime.coverage" NAME="14_gametime Coverage Results" MODIFIED="1753641202719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$15_funtion_invoice.coverage" NAME="15_funtion_invoice Coverage Results" MODIFIED="1753648600105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$11_while_loop.coverage" NAME="11_while_loop Coverage Results" MODIFIED="1753585051209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$3_Madlibs_game.coverage" NAME="3_Madlibs_game Coverage Results" MODIFIED="1753507199460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$4_basic_arithmetic_operator.coverage" NAME="4_basic_arithmetic_operator Coverage Results" MODIFIED="1753507667168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$15_funtion_return.coverage" NAME="15_funtion_return Coverage Results" MODIFIED="1753648965084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$14_collection_shopping_cart.coverage" NAME="14_collection_shopping_cart Coverage Results" MODIFIED="1753634827590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$6_if_statement.coverage" NAME="6_if_statement Coverage Results" MODIFIED="1753543839263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
