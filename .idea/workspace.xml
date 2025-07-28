@@ -4,40 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5eef215-4271-477e-af0e-b8cdbfcc9f2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_indexing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_while_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_while_loop_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12_for_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_nested_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_2d_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_collection_shopping_cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_dice_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_gametime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_default_argument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_funtion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_funtion_invoice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_funtion_return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_typecasting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_Madlibs_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_input_rectangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_basic_arithmetic_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_math_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_math_module_funtion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_if_statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_python Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_logical_oparators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_string_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_string_method_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="c5eef215-4271-477e-af0e-b8cdbfcc9f2e" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/16_keyword_argument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +21,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "cyberhackpro007"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cyberhackpro007/pythondev",
+    "accountId": "9d4305f5-da5d-46ab-9d62-73c14badca46"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -102,6 +90,7 @@
     "Python.typecasting.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -110,6 +99,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -128,12 +118,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753496253039</updated>
-      <workItem from="1753496254057" duration="37837000" />
+      <workItem from="1753496254057" duration="40280000" />
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <option name="closed" value="true" />
+      <created>1753658737111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753658737111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
